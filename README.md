@@ -1,6 +1,6 @@
-## Hello world!
+Hello!
 
-## My name is Shaolin Kataria. 
+My name is Shaolin Kataria. 
 
 I'm interested in applications of <b>IoT, Robotics and Blockchain.</b> 
 There are various projects you'll find pertaining to these domains as you browse through my repositories. 
@@ -10,9 +10,9 @@ Such domains are <b>Augmented Reality, Sound Production, designing a very basic 
 
 I'm currently learning <b>Flutter</b> and trying my hand at <b>App Development</b>. I'm also working on <b>patents</b> and <b>research papers</b> right now.
 
-## You can always reach out to me
+You can always reach out to me
 
-### Either via mail : shaolink123@gmail.com
-### Or my LinkedIn : https://www.linkedin.com/in/shaolink/
+Either via mail : shaolink123@gmail.com
+Or my LinkedIn : https://www.linkedin.com/in/shaolink/
 
-### Cheers! :) 
+Cheers! :) 
